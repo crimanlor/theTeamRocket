@@ -27,3 +27,8 @@ main {
     font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.pixel {
+    background-color: #3b2e5a;
+    width: 50px;
+    height: 50px;
+}
