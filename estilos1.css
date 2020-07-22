@@ -8,6 +8,10 @@
     background: transparent;
     vertical-align: baseline;
 }
+body {
+    background-image: url("background.jpg");
+}
+
 header {
     display: flex;
     justify-content: center;
