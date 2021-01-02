@@ -2,7 +2,7 @@
 
 Realizar un dibujo utilizando HTML y CSS. Crear y dar funcionalidad a un botón con Javascript que cambie el color del dibujo al presionarlo.
 
-## Prerequisitos y herramientas 🛠
+## Prerrequisitos y herramientas 🛠
 
 - Visual Studio Code
 - Control de versiones con git
